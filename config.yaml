@@ -1,0 +1,9 @@
+---
+imapUsername: "pd.imap.server@outlook.com"
+imapPassword: "5amuelN!jas"
+imapServerUrl: "outlook.office365.com"
+
+smtpUsername: "sajin.alex@outlook.com"
+smtpPassword: "5amuelN!jas"
+smtpServerUrl: "smtp.office365.com"
+smtpServerPort: 587
